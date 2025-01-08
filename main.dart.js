@@ -28903,7 +28903,7 @@ return A.M($async$kY,r)},
 qm(a,b){var s=null
 return new A.wV(new A.I5(this,b),s,s,s,A.acU(s,s,B.j,s,s,s,s,s,s,B.o,s,s,B.wZ,s,new A.cx(A.a08(20),B.r),s,s,s,s),s,s,!1,s,new A.rc(a,s,B.Hh,s,s),s)},
 V(a){var s=null
-return new A.qD(A.a3G(s,A.abK(new A.wd(B.h6,B.nk,B.nl,B.c_,s,B.K7,s,A.a([A.a3G(s,s,B.u7,250,s,s,250),B.tc,this.qm("Facebook","https://www.facebook.com/xuan.thaii.1/"),B.tb,this.qm("Discord","https://discord.gg/BrJ8nKEWMp"),B.tb,this.qm("\u0110\u1ed3 tui d\xf9ng \u0111\u1ec1u \u1edf \u0111\xe2y nh\xe9 @@","https://example.com"),B.tc,B.Jh],t.nA),s),s,s),B.u8,s,s,s,s),s)}}
+return new A.qD(A.a3G(s,A.abK(new A.wd(B.h6,B.nk,B.nl,B.c_,s,B.K7,s,A.a([A.a3G(s,s,B.u7,250,s,s,250),B.tc,this.qm("Facebook","https://www.facebook.com/xuan.thaii.1/"),B.tb,this.qm("Discord","https://discord.gg/BrJ8nKEWMp"),B.tb,this.qm("\u0110\u1ed3 tui d\xf9ng \u0111\u1ec1u \u1edf \u0111\xe2y nh\xe9 @@","https://collshp.com/ionlydategirlpho2912"),B.tc,B.Jh],t.nA),s),s,s),B.u8,s,s,s,s),s)}}
 A.I5.prototype={
 $0(){this.a.kY(this.b)},
 $S:0}
