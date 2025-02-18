@@ -3,6 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
+<<<<<<< HEAD
 const RESOURCES = {".git/COMMIT_EDITMSG": "240e5ef190b9395b14ffa3f01eed0c7f",
 ".git/config": "405f33827228e2c75c7e2cb7a013db8e",
 ".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
@@ -151,6 +152,14 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "240e5ef190b9395b14ffa3f01eed0c7f",
 "assets/assets/fonts/font-times-new-roman.ttf": "8ed460da03267d2817c1fe1b8e5272a6",
 "assets/assets/fonts/PassionsConflict-Regular.ttf": "f89c9921e3f440b3f4cbfa077a607b7d",
 "assets/assets/fonts/QwitcherGrypen-Bold.ttf": "4136d4e34248800b49482f47bc39d275",
+=======
+const RESOURCES = {"assets/AssetManifest.bin": "a0be34e547d395e1b2b99b8d09e135b3",
+"assets/AssetManifest.bin.json": "18da0dcb1e9b7f3487267f047ac7a303",
+"assets/AssetManifest.json": "aa717105e212f758d7e0f7a2c055c567",
+"assets/assets/fonts/DancingScript-Regular.ttf": "949b41b511eeacbbf6884959b6eedc56",
+"assets/assets/fonts/font-times-new-roman.ttf": "8ed460da03267d2817c1fe1b8e5272a6",
+"assets/assets/fonts/PassionsConflict-Regular.ttf": "f89c9921e3f440b3f4cbfa077a607b7d",
+>>>>>>> 74a9882 (donate pic)
 "assets/assets/fonts/Zimra-Regular.otf": "f5cab599ab9717fdec01344c2ff052dd",
 "assets/assets/images/ava1.jpg": "b8de8462027b4a98f78506d3eecfcba9",
 "assets/assets/images/backbrown.jpg": "97709e302f66f527214b018d921e086f",
@@ -162,6 +171,10 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "240e5ef190b9395b14ffa3f01eed0c7f",
 "assets/assets/images/facebook.png": "8c89ef8ab45d47ae9a954822532889f7",
 "assets/assets/images/instagram.png": "6d502e87783d611f2d606d55d541e139",
 "assets/assets/images/instagramto.png": "0b6b3c8d2c74fc2e0be8f5d940ec1e14",
+<<<<<<< HEAD
+=======
+"assets/assets/images/mamomo.jpg": "87326376f7ee225c1f4aee51f942d2c7",
+>>>>>>> 74a9882 (donate pic)
 "assets/assets/images/Screenshot%25202025-01-07%2520193641.png": "aab3229daf9f744fb424a25c9d69ad6a",
 "assets/assets/images/tap-here.png": "1e3dcb0206b558bf048c2e91618952e2",
 "assets/assets/images/thaitron3.png": "2ab807264cd604e4a4a45f28c575d7f5",
@@ -184,14 +197,22 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "240e5ef190b9395b14ffa3f01eed0c7f",
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
+<<<<<<< HEAD
 "flutter_bootstrap.js": "5e00a90263534ce58c9a991d9d2948cc",
+=======
+"flutter_bootstrap.js": "23ef4c8677dd96a22856863bed18ab1b",
+>>>>>>> 74a9882 (donate pic)
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "51995ee053a47185a962d6a3b1d49e00",
 "/": "51995ee053a47185a962d6a3b1d49e00",
+<<<<<<< HEAD
 "main.dart.js": "8cae61dad8296073b44090b1b0b8fe92",
+=======
+"main.dart.js": "897727e6483e97b0e7331539c57d7260",
+>>>>>>> 74a9882 (donate pic)
 "manifest.json": "72f92eebf9051d2bf8d9455a099c275a",
 "version.json": "61533813649ab27b4b862e687431136a"};
 // The application shell files that are downloaded before a service worker can
